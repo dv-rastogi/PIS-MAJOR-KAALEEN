@@ -1,8 +1,0 @@
-{
-	"private": true,
-	"dependencies": {
-		"@octokit/rest": "^16.35.0",
-		"fastify": "^2.8.0",
-		"node-fetch": "^2.6.0"
-	}
-}
